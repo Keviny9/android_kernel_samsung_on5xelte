@@ -253,9 +253,9 @@ export KBUILD_BUILDHOST := $(SUBARCH)
 export PLATFORM_VERSION := 8
 export ANDROID_MAJOR_VERSION := o
 
-ARCH		?= $(SUBARCH)
+#ARCH		?= $(SUBARCH)
 CROSS_COMPILE	?= $(CONFIG_CROSS_COMPILE:"%"=%)
-#ARCH		?=arm64
+ARCH		?= arm64
 #CROSS_COMPILE	?=../PLATFORM/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-
 
 # Architecture as present in compile.h
