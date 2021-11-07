@@ -6,6 +6,12 @@ dtb-$(CONFIG_SOC_EXYNOS8890) += exynos8890-evt1-smdk8890.dtb
 dtb-$(CONFIG_SOC_EXYNOS7870) += exynos7870-smdk7870.dtb exynos7870-universal7870.dtb exynos7870-universal7870_rev01.dtb
 dtb-$(CONFIG_SOC_EXYNOS7570) += exynos7570-smdk7570.dtb exynos7270-smdk7270.dtb exynos7270-universal7270.dtb exynos7570-universal7570-IOT-rev02.dtb exynos7270-universal7270-4g4g.dtb exynos7570-universal7570-IOT-rev02_treble_off.dtb
 
+dtb-y += \
+	exynos7570-on5xelte_swa_open_01.dtb \
+	exynos7570-on5xelte_swa_open_02.dtb \
+	exynos7570-on5xelte_swa_open_03.dtb \
+	exynos7570-on5xelte_swa_open_04.dtb
+
 targets += dtbs
 
 DTB_NAMES := $(subst $\",,$(CONFIG_BUILD_ARM64_APPENDED_DTB_IMAGE_NAMES))
