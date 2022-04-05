@@ -1,0 +1,3 @@
+kernel/drivers/fingerprint/fingerprint_sysfs.ko
+kernel/drivers/fingerprint/et510-spi.ko
+kernel/drivers/fingerprint/et510-spi_data_transfer.ko

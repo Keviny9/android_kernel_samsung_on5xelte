@@ -1,0 +1,2 @@
+kernel/drivers/crypto/fmp/fmp_mmc.ko
+kernel/drivers/crypto/fmp/sha256.ko

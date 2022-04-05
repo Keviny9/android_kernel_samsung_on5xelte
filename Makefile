@@ -1050,7 +1050,7 @@ prepare0: archprepare FORCE
 	$(Q)$(MAKE) $(build)=.
 
 # All the preparing..
-prepare: prepare0
+#prepare: prepare0
 
 # Generate some files
 # ---------------------------------------------------------------------------

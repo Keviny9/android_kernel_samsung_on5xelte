@@ -1,0 +1,10 @@
+kernel/sound/soc/snd-soc-core.ko
+kernel/sound/soc/codecs/snd-soc-cod9002.ko
+kernel/sound/soc/codecs/snd-soc-audmixer.ko
+kernel/sound/soc/codecs/snd-soc-dummy.ko
+kernel/sound/soc/samsung/snd-soc-s3c24xx.ko
+kernel/sound/soc/samsung/snd-soc-i2s.ko
+kernel/sound/soc/samsung/snd-soc-idma.ko
+kernel/sound/soc/samsung/snd-soc-eax-dai.ko
+kernel/sound/soc/samsung/snd-soc-eax-dma.ko
+kernel/sound/soc/samsung/snd-soc-universal7570-cod9002x.ko

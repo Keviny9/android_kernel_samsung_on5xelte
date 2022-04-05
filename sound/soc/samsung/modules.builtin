@@ -1,0 +1,6 @@
+kernel/sound/soc/samsung/snd-soc-s3c24xx.ko
+kernel/sound/soc/samsung/snd-soc-i2s.ko
+kernel/sound/soc/samsung/snd-soc-idma.ko
+kernel/sound/soc/samsung/snd-soc-eax-dai.ko
+kernel/sound/soc/samsung/snd-soc-eax-dma.ko
+kernel/sound/soc/samsung/snd-soc-universal7570-cod9002x.ko

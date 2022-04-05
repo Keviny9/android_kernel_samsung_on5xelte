@@ -1,0 +1,4 @@
+kernel/drivers/phy/phy-exynos-dp-video.ko
+kernel/drivers/phy/phy-exynos-mipi-video.ko
+kernel/drivers/phy/phy-exynos-mipi.ko
+kernel/drivers/phy/phy-exynos-usbdrd.ko
